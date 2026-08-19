@@ -31,7 +31,8 @@
 - Добавлена ссылка на GitHub в окне "О программе"
 - Версия отображается в заголовке окна и в подвале программы
 
-📥 Скачать: DilutionCalculator.exe (в папке dist) или multilingual.exe
+📥 [![Скачать C2H5OH Калькулятор](https://shields.io🟢_Download_EXE-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com)
+
 
 📂 Репозиторий: https://github.com/takomak2012-cyber/C2H5OH
 
