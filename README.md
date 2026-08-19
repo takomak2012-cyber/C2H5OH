@@ -8,7 +8,6 @@
 Имеет интуитивно понятный графический интерфейс на базе tkinter и работает под Windows.
 
 
-<img width="623" height="883" alt="Снимок экрана 2026-08-19 150315" src="https://github.com/user-attachments/assets/6fc6b24d-1ce3-462c-b01e-2efb850a1b41" />
 <img width="623" height="892" alt="Снимок экрана 2026-08-19 150355" src="https://github.com/user-attachments/assets/2aa43ab2-f5d9-46fb-a929-3c5c06970517" />
 
 
@@ -48,3 +47,50 @@
 📝 Лицензия: MIT
 
 ⭐ Если проект полезен — поставьте звезду на GitHub!
+## English Description
+🧪 C2H5OH Dilution Calculator — multilingual.exe
+
+Version: 3.2
+Author: Vyacheslav Dolar
+Supported languages: English, Russian, German
+
+A simple and convenient calculator for computing the dilution of ethanol (alcohol) with water. It features an intuitive graphical user interface (GUI) built with tkinter and runs natively on Windows.
+
+✅ Three Calculation Modes:
+- Water — how much water to add to a known volume of alcohol.
+- Volume — how much alcohol and water to use to get a specific target volume.
+- Total Alcohol — what the final strength (%) will be after mixing.
+
+✅ Measurement Units Supported:
+- Alcohol: %, g/L, mg/L, ppm, conventional units
+- Volume: mL, L, µL, drops
+
+✅ Multilingual Interface:
+- English
+- Russian
+- German
+
+✅ Portability:
+- Single executable file (multilingual.exe)
+- Does not require Python or any external libraries installed
+- All icons are embedded into the file, making it fully portable to any PC
+
+✅ Version 3.2 Features:
+- Added support for three languages (English, Russian, German)
+- Moved the "About" section to the main menu
+- Added a GitHub repository link inside the "About" window
+- Embedded custom icons: whiskey.ico (for shortcut) and dollar.ico (for window)
+- Version number is now displayed in the window title and application footer
+
+📥 Download:
+
+📥 Download: DilutionCalculator.exe (Ru версия) или multilingual.exe (мультиязычная)
+
+📂 Repository: https://github.com/takomak2012-cyber/C2H5OH
+
+🧮 Calculation Formula:
+Initial Alcohol × Alcohol Volume = Target Alcohol × Final Volume
+
+📝 License: MIT
+
+⭐ If you find this project useful, please give it a star on GitHub!
