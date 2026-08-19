@@ -7,9 +7,8 @@
 Простая и удобная программа-калькулятор для расчёта разбавления спирта (этанола) водой. 
 Имеет интуитивно понятный графический интерфейс на базе tkinter и работает под Windows.
 
-
+📸 Скриншот:
 <img width="623" height="892" alt="Снимок экрана 2026-08-19 150355" src="https://github.com/user-attachments/assets/2aa43ab2-f5d9-46fb-a929-3c5c06970517" />
-
 
 ✅ Три режима расчёта:
 - Вода — сколько воды добавить к известному объёму спирта
@@ -36,30 +35,50 @@
 - Добавлена ссылка на GitHub в окне "О программе"
 - Установлены иконки: whiskey.ico (для ярлыка) и dollar.ico (для окна)
 - Версия отображается в заголовке окна и в подвале программы
+- Улучшена обработка ошибок ввода
 
-📥 Скачать: DilutionCalculator.exe (Ru версия) или multilingual.exe (мультиязычная)
+📥 Скачать: 
+- multilingual.exe (мультиязычная версия)
+- DilutionCalculator.exe (русская версия)
 
 📂 Репозиторий: https://github.com/takomak2012-cyber/C2H5OH
 
 🧮 Формула расчёта:
 Начальный спирт × Объём спирта = Нужный спирт × Итоговый объём
 
+Пример:
+- Начальный спирт: 96%
+- Объём спирта: 500 мл
+- Нужный спирт: 40%
+- Итоговый объём: 96 × 500 / 40 = 1200 мл
+- Воды добавить: 1200 - 500 = 700 мл
+
 📝 Лицензия: MIT
 
 ⭐ Если проект полезен — поставьте звезду на GitHub!
-## English Description
+
+
+═══════════════════════════════════════════════════════════════
+
+
+🇬🇧 ENGLISH DESCRIPTION
+
 🧪 C2H5OH Dilution Calculator — multilingual.exe
 
 Version: 3.2
 Author: Vyacheslav Dolar
 Supported languages: English, Russian, German
 
-A simple and convenient calculator for computing the dilution of ethanol (alcohol) with water. It features an intuitive graphical user interface (GUI) built with tkinter and runs natively on Windows.
+A simple and convenient calculator for computing the dilution of ethanol (alcohol) with water. 
+It features an intuitive graphical user interface (GUI) built with tkinter and runs natively on Windows.
+
+📸 Screenshot:
+<img width="623" height="892" alt="Screenshot 2026-08-19 150355" src="https://github.com/user-attachments/assets/2aa43ab2-f5d9-46fb-a929-3c5c06970517" />
 
 ✅ Three Calculation Modes:
-- Water — how much water to add to a known volume of alcohol.
-- Volume — how much alcohol and water to use to get a specific target volume.
-- Total Alcohol — what the final strength (%) will be after mixing.
+- Water — how much water to add to a known volume of alcohol
+- Volume — how much alcohol and water to use to get a specific target volume
+- Total Alcohol — what the final strength (%) will be after mixing
 
 ✅ Measurement Units Supported:
 - Alcohol: %, g/L, mg/L, ppm, conventional units
@@ -81,15 +100,23 @@ A simple and convenient calculator for computing the dilution of ethanol (alcoho
 - Added a GitHub repository link inside the "About" window
 - Embedded custom icons: whiskey.ico (for shortcut) and dollar.ico (for window)
 - Version number is now displayed in the window title and application footer
+- Improved input error handling
 
 📥 Download:
-
-📥 Download: DilutionCalculator.exe (Ru версия) или multilingual.exe (мультиязычная)
+- multilingual.exe (multilingual version)
+- DilutionCalculator.exe (Russian version)
 
 📂 Repository: https://github.com/takomak2012-cyber/C2H5OH
 
 🧮 Calculation Formula:
 Initial Alcohol × Alcohol Volume = Target Alcohol × Final Volume
+
+Example:
+- Initial alcohol: 96%
+- Alcohol volume: 500 ml
+- Target alcohol: 40%
+- Final volume: 96 × 500 / 40 = 1200 ml
+- Water to add: 1200 - 500 = 700 ml
 
 📝 License: MIT
 
