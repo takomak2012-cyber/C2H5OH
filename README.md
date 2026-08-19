@@ -72,10 +72,10 @@
 
 📥 Скачать:
 
-\- \[Multilingual.exe](https://github.com/takomak2012-cyber/C2H5OH/blob/main/Multilingual.exe?raw=true) (мультиязычная версия)
+- [Multilingual.exe](https://github.com/takomak2012-cyber/C2H5OH/raw/main/Multilingual.exe) (мультиязычная версия)
 
-\- \[DilutionCalculator.exe](https://github.com/takomak2012-cyber/C2H5OH/blob/main/DilutionCalculator.exe?raw=true) (русская версия)
 
+- [DilutionCalculator.exe](https://github.com/takomak2012-cyber/C2H5OH/raw/main/DilutionCalculator.exe) (русская версия)
 
 
 📂 Репозиторий: https://github.com/takomak2012-cyber/C2H5OH
