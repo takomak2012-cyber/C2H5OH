@@ -28,12 +28,12 @@
 
 ✅ Особенности версии 3.2:
 - Добавлена поддержка трёх языков (русский, английский, немецкий)
+- Пункт "О программе" перенесён в главное меню
 - Добавлена ссылка на GitHub в окне "О программе"
+- Установлены иконки: whiskey.ico (для ярлыка) и dollar.ico (для окна)
 - Версия отображается в заголовке окна и в подвале программы
 
-  [[Скачать C2H5OH Калькулятор](https://github.com/takomak2012-cyber/C2H5OH/blob/main/multilingual.exe)](https://github.com)
-
-
+📥 Скачать: DilutionCalculator.exe (в папке dist) или multilingual.exe
 
 📂 Репозиторий: https://github.com/takomak2012-cyber/C2H5OH
 
