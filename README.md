@@ -31,7 +31,7 @@
 - Добавлена ссылка на GitHub в окне "О программе"
 - Версия отображается в заголовке окна и в подвале программы
 
-  [![Скачать C2H5OH Калькулятор](https://shields.io🟢_Download_EXE-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com)
+  [[Скачать C2H5OH Калькулятор](https://shields.io🟢_Download_EXE-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com)
 
 
 
