@@ -38,7 +38,7 @@
 - Установлены иконки: whiskey.ico (для ярлыка) и dollar.ico (для окна)
 - Версия отображается в заголовке окна и в подвале программы
 
-📥 Скачать: DilutionCalculator.exe (в папке dist) или multilingual.exe
+📥 Скачать: DilutionCalculator.exe (Ru версия) или multilingual.exe (ультиязычная)
 
 📂 Репозиторий: https://github.com/takomak2012-cyber/C2H5OH
 
