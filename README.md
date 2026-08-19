@@ -31,9 +31,6 @@
 
 ✅ Особенности версии 3.2:
 - Добавлена поддержка трёх языков (русский, английский, немецкий)
-- Пункт "О программе" перенесён в главное меню
-- Добавлена ссылка на GitHub в окне "О программе"
-- Установлены иконки: whiskey.ico (для ярлыка) и dollar.ico (для окна)
 - Версия отображается в заголовке окна и в подвале программы
 - Улучшена обработка ошибок ввода
 
@@ -72,9 +69,6 @@ Supported languages: English, Russian, German
 A simple and convenient calculator for computing the dilution of ethanol (alcohol) with water. 
 It features an intuitive graphical user interface (GUI) built with tkinter and runs natively on Windows.
 
-📸 Screenshot:
-<img width="623" height="892" alt="Screenshot 2026-08-19 150355" src="https://github.com/user-attachments/assets/2aa43ab2-f5d9-46fb-a929-3c5c06970517" />
-
 ✅ Three Calculation Modes:
 - Water — how much water to add to a known volume of alcohol
 - Volume — how much alcohol and water to use to get a specific target volume
@@ -96,9 +90,6 @@ It features an intuitive graphical user interface (GUI) built with tkinter and r
 
 ✅ Version 3.2 Features:
 - Added support for three languages (English, Russian, German)
-- Moved the "About" section to the main menu
-- Added a GitHub repository link inside the "About" window
-- Embedded custom icons: whiskey.ico (for shortcut) and dollar.ico (for window)
 - Version number is now displayed in the window title and application footer
 - Improved input error handling
 
