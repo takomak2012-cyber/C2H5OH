@@ -401,7 +401,7 @@ class DilutionApp(tk.Tk):
         self._build_tray_icon()
         self._build()
         self._restore_state()
-        self.protocol("WM_DELETE_WINDOW", self._hide_to_tray)
+        self.protocol("WM_DELETE_WINDOW", self._quit_app)
         self.bind("<Configure>", self._on_resize)
         self.bind("<Return>", self._run_active_tab)
 
