@@ -1,4 +1,8 @@
-\# 🧪 Калькулятор разбавления спирта (C2H5OH Dilution Calculator) — multilingual.exe
+\# 🧪 AlcoKa 3.4 — C2H5OH Dilution Calculator
+
+\*\*Новый релиз: [AlcoKa 3.4](RELEASE_NOTES_v3.4.md).\*\*
+
+Версия 3.4 распространяется одним автономным файлом [AlcoKa.exe](AlcoKa.exe): установка Python не требуется.
 
 
 
